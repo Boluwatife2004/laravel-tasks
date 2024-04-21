@@ -63,4 +63,4 @@ jobs:
           app-name: 'SQLWEB-APP'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BDB66E9D8D1A4561B9F08983D56CF17E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_20405F4BFDB844738638EAF55173D345 }}
